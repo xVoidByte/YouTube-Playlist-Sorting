@@ -1,5 +1,9 @@
 # YouTube Playlist Sorting
 
+![image](https://github.com/user-attachments/assets/f4c0088c-14ce-424a-a414-d446c727a331)
+
+![image](https://github.com/user-attachments/assets/55a3efe9-cfb5-450b-aa2e-32788d91170f)
+
 A Tampermonkey userscript that enhances YouTube playlists by adding **Sort A-Z** (alphabetical by title) and **Sort Recently Added** (newest videos first) options. For modern playlists, it injects these options into YouTube’s native sorting dropdown. For older playlists without a native sort button, it creates a custom, modern-looking dropdown that blends seamlessly with YouTube’s UI.
 
 ***Last updated: May 24, 2025***
